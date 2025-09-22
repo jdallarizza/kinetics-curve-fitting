@@ -7,7 +7,7 @@ It is intended to be used with jupyter notebook
 
 
 ## Example:
-![temporal course](time_course_fitting.png)
+![temporal course](time_course_fit.png)
 ---
 
 ## Features
