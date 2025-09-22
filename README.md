@@ -5,6 +5,9 @@ It uses **nonlinear regression** (`scipy.optimize.curve_fit`) to estimate parame
 
 It is intended to be used with jupyter notebook
 
+
+## Example:
+![temporal course](time_course_fitting.png)
 ---
 
 ## Features
